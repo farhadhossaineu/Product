@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Aviator Sunglasses",
+      "brand": "RayBan",
+      "price": 149.99,
+      "currency": "USD",
+      "description": "Timeless aviator sunglasses with polarized lenses and metal frames.",
+      "image": "https://fakestoreapi.com/images/aviator.jpg",
+      "category": "sunglasses",
+      "gender": "men",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Wayfarer Sunglasses",
+      "brand": "RayBan",
+      "price": 139.99,
+      "currency": "USD",
+      "description": "Stylish wayfarer sunglasses with durable acetate frames.",
+      "image": "https://fakestoreapi.com/images/wayfarer.jpg",
+      "category": "sunglasses",
+      "gender": "men",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Sports Wrap Sunglasses",
+      "brand": "Oakley",
+      "price": 129.99,
+      "currency": "USD",
+      "description": "High-performance sports wrap sunglasses with UV protection.",
+      "image": "https://fakestoreapi.com/images/sportswrap.jpg",
+      "category": "sunglasses",
+      "gender": "men",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Retro Round Sunglasses",
+      "brand": "Persol",
+      "price": 159.99,
+      "currency": "USD",
+      "description": "Vintage-inspired round sunglasses with premium lenses.",
+      "image": "https://fakestoreapi.com/images/round.jpg",
+      "category": "sunglasses",
+      "gender": "men",
+      "stock": 15
+    }
+  ]
+}
